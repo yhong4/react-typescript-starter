@@ -1,5 +1,5 @@
 {
-  "name": "imgsearch",
+  "name": "react-typescript-scss-new",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,10 +17,10 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.22",
-    "@types/node": "^12.12.6",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.11",
     "@types/react": "^16.9.11",
-    "@types/react-dom": "^16.9.3",
+    "@types/react-dom": "^16.9.4",
     "typescript": "^3.7.2"
   }
 }
